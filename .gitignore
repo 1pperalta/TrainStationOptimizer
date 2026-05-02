@@ -17,3 +17,6 @@ htmlcov/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Local context files
+codex.md
