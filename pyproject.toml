@@ -1,0 +1,16 @@
+[project]
+name = "trainstation"
+version = "0.1.0"
+description = "Train station placement optimization under stochastic population scenarios."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "matplotlib",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+]
+
