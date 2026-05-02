@@ -65,3 +65,7 @@ uv run python -m src.app.run_experiment
 ```bash
 uv run python -m pytest -q
 ```
+
+## Results
+
+![Optimization results](image.png)
